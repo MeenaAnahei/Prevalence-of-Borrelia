@@ -3,7 +3,7 @@
 The *Borrelia burgdorferi* outer surface protein dataset is a molecular
 ecology dataset that consists of DNA sequences and other metadata for
 four outer surface proteins A,B,C, and p35 (BBA64).This data is derived
-from *Ixodes pacificus* ticks and their vertebrate hosts colelcted in
+from *Ixodes pacificus* ticks and their vertebrate hosts collected in
 the Bay Area of California.This dataset helps support research on how
 the genetic diversity of outer surface proteins correlates with vector
 and host diversity which provides insights into the transmission
@@ -65,3 +65,64 @@ collection and identification.
     ## 4                      n/a                  n/a     n/a
     ## 5                      n/a                  n/a     n/a
     ## 6                      n/a                  n/a     n/a
+
+# Rationale
+
+This data set was curated to explore the genetic variation of outer
+surface proteins that are crucial for the survival and transmission of
+*Borrelia.* OspA and B are expressed in the tick mid gut while C and p35
+are expressed in the hosts. Understanding the variation across tick and
+hosts species provides insights into the ecology of Lyme Disease.
+
+# Initial Data Collection and Normalization
+
+Samples were collected during tick season of April-May 2018-2024 in the
+Bay Area of California.Ticks were collected from vegetation and ear
+punches were taken from hosts then stored in ethanol. DNA was then
+extracted and gene specific PCR was performed to confirm the presence of
+outer surface proteins.
+
+# Annotation Process
+
+PCR results were interpreted from gel electrophoresis banding patterns.
+Positive bands were recorded verifying the tick and host IDs.
+
+# WHo are the Annotators
+
+Original collectors, identifiers, and DNA extractors were undergraduate
+and graduate researchers from San Francisco State University. For PCR
+and electrophoresis, graduate researchers.
+
+# Personal and Sensitive Information
+
+This dataset contains the names of the collectors, identifiers, and
+those who conducted every wet lab experiment.
+
+# Social Impact of Dataset
+
+This enhances the understanding of *Borrelia burgdorferi* distribution
+and outer surface protein expression in the western US. This region of
+the US has been less understood in terms of Lyme disease ecology. With
+this dataset, it can further inform public health efforts in vector
+surveillance and control.
+
+# Discussion of Biases
+
+Sampling was limited to ticks collected at specific sites in the Bay
+Area of California. Some sites had more collections than others due to
+abundance and weather at the time of tick and mammal collection. Host
+diversity may be biased by the trapping success.PCR detection may depend
+on DNA quality and primer performance.
+
+# Other Known Limitations
+
+Mixed infections can possibly be under detected due to the PCR protocol
+being used that takes into account one species of *Borrelia*. There is
+temporal variation not taken into account from the samples collected
+across all 7 years. There is a possibility of cross contamination and
+the risk of false positives as PCRs are sensitive especially if they’re
+not controlled.
+
+# Dataset Curators
+
+This dataset was created by Swei Lab at San Francisco State University.
